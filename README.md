@@ -27,5 +27,5 @@ Simple Todo List made using the PERN stack. The main objective of this project w
 
 ### Example screenshots
 
-![Todo List App](/client/public/Example "Todo List App")
-![Todo List App](/client/public/Example1 "Todo List App")
+![Todo List App](/client/public/Example.png "Todo List App")
+![Todo List App](/client/public/Example1.png "Todo List App")
