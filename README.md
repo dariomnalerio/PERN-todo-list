@@ -7,7 +7,7 @@ Simple Todo List made using the PERN stack. The main objective of this project w
  - PostgreSQL
  - Nodemon or alternative (to continuously listen to the server)
  
-<br>
+
 ### Installation
 
  1. Clone the repository: `git clone https://github.com/your-username/pern-todo.git`
@@ -16,7 +16,7 @@ Simple Todo List made using the PERN stack. The main objective of this project w
  4. Edit `./server/db.js` if needed
  5. Start the server `npm `
 
-<br>
+
 ### Features
 
  - View all items
@@ -24,7 +24,7 @@ Simple Todo List made using the PERN stack. The main objective of this project w
  - Edit item
  - Delete item from list
 
-<br>
+
 ### Example screenshots
 
 ![Todo List App](/client/public/Example "Todo List App")
